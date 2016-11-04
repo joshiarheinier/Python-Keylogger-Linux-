@@ -1,1 +1,1 @@
-cd /home/joshia/Documents/pybox/keylogger/shell/;./initiate.sh;cd
+cd $HOME/shell/;./initiate.sh;cd
